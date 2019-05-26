@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+/.vs/stewart-ui-library/v16/ipch/AutoPCH/6610bc79e95a632/EXAMPLE.ipch
+/.vs/stewart-ui-library/v16/ipch/AutoPCH/d133a03d732671b8/EXAMPLE.ipch
+/.vs/stewart-ui-library/v16/ipch/AutoPCH/f5dcbc84786aa551/EXAMPLE.ipch
+/.vs/stewart-ui-library/v16/ipch/AutoPCH/dd3cc19af930053e/UI-LIBRARY.ipch
+/.vs/UI-Library/v16/Browse.VC.db
+/.vs/stewart-ui-library/v16/Browse.VC.opendb
+/.vs/stewart-ui-library/v16/Browse.VC.db
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
